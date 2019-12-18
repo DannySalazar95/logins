@@ -2,7 +2,7 @@
 
 ## Diseños
 - [Ver Login 1](https://raw.githubusercontent.com/DannySalazar95/logins/master/public/logins/login_1.png).
-- [Ver Login 1](https://raw.githubusercontent.com/DannySalazar95/logins/master/public/logins/login_2.png).
+- [Ver Login 2](https://raw.githubusercontent.com/DannySalazar95/logins/master/public/logins/login_2.png).
 
 ## Project setup
 ```
